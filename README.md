@@ -55,13 +55,13 @@ No manual prompt engineering. No copy-paste between platforms. Just tell it what
 
 ```bash
 # Claude Code
-git clone https://github.com/m17551076169/SkillAnything.git ~/.claude/skills/skill-anything
+git clone https://github.com/AgentSkillOS/SkillAnything.git ~/.claude/skills/skill-anything
 
 # OpenClaw
-git clone https://github.com/m17551076169/SkillAnything.git ~/.openclaw/skills/skill-anything
+git clone https://github.com/AgentSkillOS/SkillAnything.git ~/.openclaw/skills/skill-anything
 
 # Codex
-git clone https://github.com/m17551076169/SkillAnything.git ~/.codex/skills/skill-anything
+git clone https://github.com/AgentSkillOS/SkillAnything.git ~/.codex/skills/skill-anything
 ```
 
 ### Use

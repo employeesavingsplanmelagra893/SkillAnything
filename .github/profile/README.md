@@ -29,12 +29,12 @@ tech_stack:
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [SkillAnything](https://github.com/m17551076169/SkillAnything) | Auto-generate production-ready AI Agent Skills | Active |
+| [SkillAnything](https://github.com/AgentSkillOS/SkillAnything) | Auto-generate production-ready AI Agent Skills | Active |
 
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m17551076169&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AgentSkillOS&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" alt="GitHub Stats" />
 </p>
 
 ---
